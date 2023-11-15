@@ -2,8 +2,8 @@
 //money, inventory, jackpot
 (function(){
 var itemCounter = 0;
-var fps = 15;
-var coinflip = false;
+var fps = 30;
+var coinflip = true;
 var money = 7.50;
 var username = localStorage.getItem('username');
 if (localStorage.getItem("username") === null) {
@@ -23485,7 +23485,7 @@ $(".caseContainer").on('click', '.case', function() {
 var jackpotUnlocked = true;
 var jackpotInProgress = false;
 var swapSkins = 0;
-var maxSwapSkins = 15;
+var maxSwapSkins = 30;
 var swapSkinsValue = 0;
 var jackpotSelectedInventory = {};
 var jackpotDifficulty = "low";
