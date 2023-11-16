@@ -20912,29 +20912,29 @@ var cases = {
 				img: "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1JfwPz3eDNG5du5q4GFk8jzIb7IqWNU6dNoteXA54vwxlWx-hY_aj_xJ4-cd1A5NQqB_gPvxbrsgpW975-YnCBjuXEg5X2OzUOpwUYbVdCgv5I"
 			},
 			weap24: {
-				name: "Souvenir Sawed-Off | Rust Coat FN",
+				name: "Sticky substance| Rust Coat FN",
 				price: 1.12,
-				img: "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3cCx9_8izkYy0m_7zO6_ummpD78A_iLqXpo-ljgWxrhVkYDigI4Scc1A2M17UrlK9ybq80cK0vpzByndjuD5iuyiTvuM2bA"
+				img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdIsUyktmlOdP41wCdFVzBK9FUGGW-D-DHf3TCcejQbt8yKxhRluSTJb79NTkUMgPpdZ4:https://thumbs.dreamstime.com/b/milk-white-background-spilled-milk-puddle-isolated-white-background-texture-spilled-milk-spilled-milk-puddle-isolated-180587114.jpg&usqp=CAU"
 			},
 			weap25: {
-				name: "Souvenir Sawed-Off | Rust Coat MW",
+				name: "Sticky substance| Rust Coat MW",
 				price: 0.31,
-				img: "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3cCx9_8izkYy0m_7zO6_ummpD78A_iLqXpo-ljgWxrhVkYDigI4Scc1A2M17UrlK9ybq80cK0vpzByndjuD5iuyiTvuM2bA"
+				img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdIsUyktmlOdP41wCdFVzBK9FUGGW-D-DHf3TCcejQbt8yKxhRluSTJb79NTkUMgPpdZ4:https://thumbs.dreamstime.com/b/milk-white-background-spilled-milk-puddle-isolated-white-background-texture-spilled-milk-spilled-milk-puddle-isolated-180587114.jpg&usqp=CAU"
 			},
 			weap26: {
-				name: "Souvenir Sawed-Off | Rust Coat FT",
+				name: "Sticky substance| Rust Coat FT",
 				price: 0.23,
-				img: "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3cCx9_8izkYy0mvLwOq7cqWdQ-sJ0xL6Y9tit2gDlqkFsZm_0dtKSJANraQvXrlm4wejmh57qucucnHVk7iI8pSGKUnJFp9g"
+				img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdIsUyktmlOdP41wCdFVzBK9FUGGW-D-DHf3TCcejQbt8yKxhRluSTJb79NTkUMgPpdZ4:https://thumbs.dreamstime.com/b/milk-white-background-spilled-milk-puddle-isolated-white-background-texture-spilled-milk-spilled-milk-puddle-isolated-180587114.jpg&usqp=CAU"
 			},
 			weap27: {
-				name: "Souvenir Sawed-Off | Rust Coat WW",
+				name: "Sticky substance| Rust Coat WW",
 				price: 0.47,
-				img: "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3cCx9_8izkYy0mvLwOq7cqWdQ-sJ0xL6Y9tit2gDlqkFsZm_0dtKSJANraQvXrlm4wejmh57qucucnHVk7iI8pSGKUnJFp9g"
+				img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdIsUyktmlOdP41wCdFVzBK9FUGGW-D-DHf3TCcejQbt8yKxhRluSTJb79NTkUMgPpdZ4:https://thumbs.dreamstime.com/b/milk-white-background-spilled-milk-puddle-isolated-white-background-texture-spilled-milk-spilled-milk-puddle-isolated-180587114.jpg&usqp=CAU"
 			},
 			weap28: {
-				name: "Souvenir Sawed-Off | Rust Coat BS",
+				name: "Sticky substance| Rust Coat BS",
 				price: 0.27,
-				img: "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3cCx9_8izkYy0n_L1JaLummpD78A_ju_E8dT3jA2wrRBoZm71JIbEcVc4YV_R8lXqkrzujJW7u8_AmiBi7z5iuyhvCAhQsg"
+				img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdIsUyktmlOdP41wCdFVzBK9FUGGW-D-DHf3TCcejQbt8yKxhRluSTJb79NTkUMgPpdZ4:https://thumbs.dreamstime.com/b/milk-white-background-spilled-milk-puddle-isolated-white-background-texture-spilled-milk-spilled-milk-puddle-isolated-180587114.jpg&usqp=CAU"
 			},
 			weap29: {
 				name: "Souvenir Nova | Green Apple FN",
