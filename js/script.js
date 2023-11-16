@@ -144,9 +144,9 @@ var operationCases = {
 		img: "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFYznarJJjkQ6ovjw4SPlfP3auqEl2oBuJB1j--WoY322QziqkdpZGr3IteLMlhpw4RJCv8"
 	},
 	case21: {
-		name: "ESL One Cologne 2014 Cobblestone Souvenir Package",
+		name: "Oh word?",
 		price: 180.26,
-		img: "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsVk54dFBopqiqJghf1_b3cj9A4Nn4wYSJxPagMeyFw21Q68N32O3DotX021Gx_Uttaj_zJIHHJ1M5Yl6D-k_-n7lVjEgWRQ"
+		img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShA2OP_0z7XdoW4aqa_EzeAM8choD7F3jRihfWf0YL-jx3FWxVt-9R59HzK6WqFREXHwk:https://lookaside.fbsbx.com/lookaside/crawler/media/%3Fmedia_id%3D100068409887123&usqp=CAU"
 	},
 	case22: {
 		name: "Clutch Case",
