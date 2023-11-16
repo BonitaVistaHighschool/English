@@ -124,9 +124,9 @@ var operationCases = {
 		img: "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FF4u1qubIW4Su4mzxYHbzqGtZ-KGlz8EuJcg3rnE9NiijVe3_UY-Zzr2JJjVLFEEeiQRtg"
 	},
 	case17: {
-		name: "Revolver Case",
-		price: 0.04,
-		img: "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFYwnfKfcG9HvN7iktaOkqD1auLTxD5SvZYgiLvFpo7xjVLh-kdrYWnzcoGLMlhpsyM-5vg"
+		name: "slave case",
+		price: 0.01,
+		img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9BWN6Rf4US3YsHTwl0cEmP8g2kUD-ODQLV2XHnLjZKHYsF1XwBDE_5ezOkQ0FnzJ2fno:https://cdn.britannica.com/30/138730-050-312CBBAF/Slaves-cotton-Georgia.jpg&usqp=CAU"
 	},
 	case18: {
 		name: "Operation Wildfire Case",
