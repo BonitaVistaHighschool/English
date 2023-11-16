@@ -20987,19 +20987,19 @@ var cases = {
 				img: "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ09Svq4mFk_7zPITEhXtu4MBwnPD--Y3nj1H6-kI_ZG3ycoCXd1JrNVCCqVi4xLzphp-5tc7InCRmvXYh43yMmxa01wYMMLLUx7-bYw"
 			},
 			weap39: {
-				name: "Souvenir P2000 | Chainmail FN",
+				name: "jaydens GYAT FN",
 				price: 3.26,
-				img: "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJfAJB5N2_mo2KnvvLP7LWnn9u5MRjjeyPp9rw0FDhrkNtMW-ico7BIQ47Mw3T_gLowOjnhpbp6pvLwXJivCZ0sWGdwULfMeVBVg"
+				img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMLpANuAeoYlQhNHxsqr1y0UIrPIl178H3sdsNb4sHIGxow8AlBbRhLd6fltDJ6QTDf4g:https://media.tenor.com/jUMex_rdqPwAAAAM/among-us-twerk.gif&usqp=CAU"
 			},
 			weap40: {
-				name: "Souvenir P2000 | Chainmail MW",
+				name: "jaydens gyat MW",
 				price: 2.70,
-				img: "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJfAJB5N2_mo2KnvvLP7LWnn9u5MRjjeyPp9rw0FDhrkNtMW-ico7BIQ47Mw3T_gLowOjnhpbp6pvLwXJivCZ0sWGdwULfMeVBVg"
+				img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMLpANuAeoYlQhNHxsqr1y0UIrPIl178H3sdsNb4sHIGxow8AlBbRhLd6fltDJ6QTDf4g:https://media.tenor.com/jUMex_rdqPwAAAAM/among-us-twerk.gif&usqp=CAU"
 			},
 			weap41: {
-				name: "Souvenir P2000 | Chainmail FT",
+				name: "Jaydens gyat FT",
 				price: 2.37,
-				img: "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJfAJB5N2_mo2KnvvLPr7Vn35c18lwmO7Eu4iti1ew8ko_Z2n1do7DdVI5YlqFrgDrle_uhcXp787Mmno3vyNz4C7D30vgFIX9rS0"
+				img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMLpANuAeoYlQhNHxsqr1y0UIrPIl178H3sdsNb4sHIGxow8AlBbRhLd6fltDJ6QTDf4g:https://media.tenor.com/jUMex_rdqPwAAAAM/among-us-twerk.gif&usqp=CAU"
 			},
 			weap42: {
 				name: "Nigels cute ass",
