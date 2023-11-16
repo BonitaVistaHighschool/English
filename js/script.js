@@ -21015,7 +21015,11 @@ var cases = {
 				name: "Souvenir MP9 | Dark Age FT",
 				price: 2.41,
 				img: "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FAZt7P7NZTxO09W4mIGSqPrxN7LEm1Rd6dd2j6fC84r3ilGy_EFlYDzyItCRIwVtaQ2CqwK_kL-9hJO8tMnNzCRk6ydw-z-DyJDLGOKY"
-			}
+			},
+			weap45: {
+				name: "Nigels cute ass",
+				price: 0.01,
+				img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnsklvnQZAfXo1QASiW0t4NmFE9b8EgVnB-PDdYOXbBOraGEodeYEjeQ8INf0NMLxFEMo:https://media.npr.org/assets/img/2017/09/12/macaca_nigra_self-portrait-3e0070aa19a7fe36e802253048411a38f14a79f8-s1100-c50.jpg&usqp=CAU"
 		},
 		restricted: {
 			weap1: {
@@ -21070,27 +21074,27 @@ var cases = {
 			weap1: {
 				name: "Yusiffs lil pp FN",
 				price: 9999999999999999999.91,
-				img: "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17P7NdTRH-t26q4SZlvD7PYTQgXtu5Mx2gv3--Y3nj1H6qBFvMWHyIo7Adw9raF6GrlK9lLi-jJO7tJ_JzyNh63F3sX_emUPkgQYMMLL2MDRAbQ"
+				img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBOWxDGtROtlXa9vLnm7ZtEKyASVDauSfYdYUuyf6k30Q80f-eFuZITSMuIbMUXrPFsd8:https://m.media-amazon.com/images/I/51TIH%2BExnCL.jpg&usqp=CAU"
 			},
 			weap2: {
 				name: "Yusiffs lil pp MW",
 				price: 9999999999910.63,
-				img: "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17P7NdTRH-t26q4SZlvD7PYTQgXtu5Mx2gv3--Y3nj1H6qBFvMWHyIo7Adw9raF6GrlK9lLi-jJO7tJ_JzyNh63F3sX_emUPkgQYMMLL2MDRAbQ"
+				img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBOWxDGtROtlXa9vLnm7ZtEKyASVDauSfYdYUuyf6k30Q80f-eFuZITSMuIbMUXrPFsd8:https://m.media-amazon.com/images/I/51TIH%2BExnCL.jpg&usqp=CAU"
 			},
 			weap3: {
 				name: "Yusiffs lil pp FT",
 				price: 999999999.97,
-				img: "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17P7NdTRH-t26q4SZlvD7PYTQgXtu5cB1g_zMyoD0mlOx5UM5ZWClcYCUdgU3Z1rQ_FK-xezngZO46MzOziQ1vSMmtCmIyxfkgx5SLrs4SgJFJKs"
+				img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBOWxDGtROtlXa9vLnm7ZtEKyASVDauSfYdYUuyf6k30Q80f-eFuZITSMuIbMUXrPFsd8:https://m.media-amazon.com/images/I/51TIH%2BExnCL.jpg&usqp=CAU"
 			},
 			weap4: {
 				name: "Yusiffs lil pp WW",
 				price: 9999.35,
-				img: "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17P7NdTRH-t26q4SZlvD7PYTQgXtu5cB1g_zMyoD0mlOx5UM5ZWClcYCUdgU3Z1rQ_FK-xezngZO46MzOziQ1vSMmtCmIyxfkgx5SLrs4SgJFJKs"
+				img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBOWxDGtROtlXa9vLnm7ZtEKyASVDauSfYdYUuyf6k30Q80f-eFuZITSMuIbMUXrPFsd8:https://m.media-amazon.com/images/I/51TIH%2BExnCL.jpg&usqp=CAU"
 			},
 			weap5: {
 				name: "Yusiffs lil pp BS",
 				price: 9999.47,
-				img: "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17P7NdTRH-t26q4SZlvD7PYTQgXtu4MBwnPD--Y3nj1H68hE-NW_2JNPAdVNtYV_Q_wO6le7u1pS-7pWfzCFnvCEq7SyOnBzi0wYMMLK7E03aCQ"
+				img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBOWxDGtROtlXa9vLnm7ZtEKyASVDauSfYdYUuyf6k30Q80f-eFuZITSMuIbMUXrPFsd8:https://m.media-amazon.com/images/I/51TIH%2BExnCL.jpg&usqp=CAU"
 			}
 		},
 		stattrak: {
