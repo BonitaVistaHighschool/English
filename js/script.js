@@ -21002,24 +21002,20 @@ var cases = {
 				img: "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJfAJB5N2_mo2KnvvLPr7Vn35c18lwmO7Eu4iti1ew8ko_Z2n1do7DdVI5YlqFrgDrle_uhcXp787Mmno3vyNz4C7D30vgFIX9rS0"
 			},
 			weap42: {
-				name: "Souvenir MP9 | Dark Age FN",
-				price: 3.48,
-				img: "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FAZt7P7NZTxO09W4mIGSqPv9NLPFqWdQ-sJ0xOiVrNqt2VK2-BJvajunJ4GdcgM_NQzS-AfoyLjmjZ7q6JXKyCZnu3Y8pSGKGi1hyIM"
-			},
-			weap43: {
-				name: "Souvenir MP9 | Dark Age MW",
-				price: 2.56,
-				img: "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FAZt7P7NZTxO09W4mIGSqPv9NLPFqWdQ-sJ0xOiVrNqt2VK2-BJvajunJ4GdcgM_NQzS-AfoyLjmjZ7q6JXKyCZnu3Y8pSGKGi1hyIM"
-			},
-			weap44: {
-				name: "Souvenir MP9 | Dark Age FT",
-				price: 2.41,
-				img: "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FAZt7P7NZTxO09W4mIGSqPrxN7LEm1Rd6dd2j6fC84r3ilGy_EFlYDzyItCRIwVtaQ2CqwK_kL-9hJO8tMnNzCRk6ydw-z-DyJDLGOKY"
-			},
-			weap45: {
 				name: "Nigels cute ass",
 				price: 0.01,
 				img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnsklvnQZAfXo1QASiW0t4NmFE9b8EgVnB-PDdYOXbBOraGEodeYEjeQ8INf0NMLxFEMo:https://media.npr.org/assets/img/2017/09/12/macaca_nigra_self-portrait-3e0070aa19a7fe36e802253048411a38f14a79f8-s1100-c50.jpg&usqp=CAU"
+			},
+			weap43: {
+				name: "Nigels cute ass",
+				price: 0.01,
+				img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnsklvnQZAfXo1QASiW0t4NmFE9b8EgVnB-PDdYOXbBOraGEodeYEjeQ8INf0NMLxFEMo:https://media.npr.org/assets/img/2017/09/12/macaca_nigra_self-portrait-3e0070aa19a7fe36e802253048411a38f14a79f8-s1100-c50.jpg&usqp=CAU"
+			},
+			weap44: {
+				name: "Nigels cute ass",
+				price: 0.01,
+				img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnsklvnQZAfXo1QASiW0t4NmFE9b8EgVnB-PDdYOXbBOraGEodeYEjeQ8INf0NMLxFEMo:https://media.npr.org/assets/img/2017/09/12/macaca_nigra_self-portrait-3e0070aa19a7fe36e802253048411a38f14a79f8-s1100-c50.jpg&usqp=CAU"
+			
 		},
 		restricted: {
 			weap1: {
